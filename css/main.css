@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Source+Sans+Pro&display=swap");
+
+body {
+  font-family: "Source Sans Pro";
+  font-size: 18px;
+  background-color: #0c4a6e;
+}
+
+.movies_card {
+  width: 100%;
+  max-width: 340px;
+  height: 100%;
+  max-height: fit-content;
+  background-color: #fff;
+  box-shadow: 0 0px 3px rgb(219, 217, 217);
+}
+.nav_link_title {
+  font-family: "Libre Baskerville";
+  font-size: 42x;
+}
